@@ -11,7 +11,6 @@ ipython
 ipywidgets
 tqdm
 numpy>=1.14,<1.16
-matplotlib
 pandas==0.23.3
 pytest
 scipy
