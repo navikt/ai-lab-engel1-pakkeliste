@@ -1,6 +1,6 @@
 # Test
 #markdown2==2.3.5
-#requests==2.19.1
+requests==2.19.1
 
 # Pakke: AIF360 (https://github.com/IBM/AIF360)
 nbformat
