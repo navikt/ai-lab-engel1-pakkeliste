@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # test.py
 # Kanskje man må ha en python-fil for å indikere språket som brukes i repoet...
 
