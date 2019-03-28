@@ -31,3 +31,6 @@ progressbar2==3.38.0
 
 # Jon Vegard
 tabulate==0.8.3
+
+# Lars
+xmltodict==0.12.0
