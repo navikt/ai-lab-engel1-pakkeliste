@@ -25,3 +25,6 @@ lime
 
 #Eirik sine pakker
 psycopg2==2.7.5
+editdistance==0.5.3
+ngram==3.3.2
+progressbar2==3.38.0
