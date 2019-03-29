@@ -34,3 +34,9 @@ tabulate==0.8.3
 
 # Lars
 xmltodict==0.12.0
+
+# Robindra lifelines
+lifelines==0.20.4
+numpy>=1.14.0
+scipy>=1.0
+pandas>=0.23.0
