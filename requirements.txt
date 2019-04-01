@@ -32,6 +32,7 @@ progressbar2==3.38.0
 # Jon Vegard
 tabulate==0.8.3
 urllib
+jupyterlab
 
 # Lars
 xmltodict==0.12.0
