@@ -33,7 +33,7 @@ progressbar2==3.38.0
 tabulate==0.8.3
 urllib
 jupyterlab
--r dvc-requirements.txt
+-r dvc-0.34.1.txt
 
 # Lars
 xmltodict==0.12.0
