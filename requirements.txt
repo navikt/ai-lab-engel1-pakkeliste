@@ -34,6 +34,7 @@ tabulate==0.8.3
 urllib
 jupyterlab
 -r dvc-0.34.1.txt
+-r aequitas-0.25.0.txt
 
 # Lars
 xmltodict==0.12.0
