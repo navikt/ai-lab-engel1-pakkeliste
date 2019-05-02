@@ -35,6 +35,7 @@ urllib
 jupyterlab
 -r dvc-0.34.1.txt
 -r aequitas-0.25.0.txt
+-r imbalanced_learn-0.4.3.txt
 
 # Lars
 xmltodict==0.12.0
