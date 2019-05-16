@@ -18,7 +18,7 @@ scipy
 scikit-learn
 cvxpy>=1.0
 numba
-tensorflow==1.1.0
+tensorflow==1.13.1
 networkx==1.11
 BlackBoxAuditing;python_version>="3"
 lime
@@ -36,6 +36,7 @@ jupyterlab
 -r dvc-0.34.1.txt
 -r aequitas-0.25.0.txt
 -r imbalanced_learn-0.4.3.txt
+-r requirements-orange-3.20.1.txt
 
 # Lars
 xmltodict==0.12.0
