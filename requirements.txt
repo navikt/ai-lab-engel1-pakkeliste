@@ -47,4 +47,6 @@ PyPDF2==1.26.0
 # Anders
 seaborn
 
+# Erik
+dataverk==0.1.15
 
