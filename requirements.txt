@@ -49,4 +49,3 @@ seaborn
 
 # Erik
 dataverk==0.1.15
-
