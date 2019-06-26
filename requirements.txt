@@ -26,22 +26,5 @@ ngram==3.3.2
 progressbar2==3.38.0
 pytorch-pretrained-bert==0.6.2
 
-# Jon Vegard
-tabulate==0.8.3
-urllib
-jupyterlab
--r dvc-0.34.1.txt
--r aequitas-0.25.0.txt
--r imbalanced_learn-0.4.3.txt
--r requirements-orange-3.20.1.txt
-shap==0.23.0
-
-# Lars
-xmltodict==0.12.0
-PyPDF2==1.26.0
-
-# Anders
-seaborn
-
 # Erik
 dataverk==0.1.15
