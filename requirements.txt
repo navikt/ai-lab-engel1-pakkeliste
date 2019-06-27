@@ -37,7 +37,7 @@ jupyterlab
 -r dvc-0.34.1.txt
 -r aequitas-0.25.0.txt
 -r imbalanced_learn-0.4.3.txt
--r requirements-orange-3.20.1.txt
+#-r requirements-orange-3.20.1.txt
 shap==0.23.0
 
 # Lars
