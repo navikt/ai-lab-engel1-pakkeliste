@@ -28,7 +28,7 @@ psycopg2==2.7.5
 editdistance==0.5.3
 ngram==3.3.2
 progressbar2==3.38.0
-pytorch-pretrained-bert==0.6.2
+#pytorch-pretrained-bert==0.6.2
 
 # Jon Vegard
 tabulate==0.8.3
