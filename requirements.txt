@@ -3,25 +3,25 @@
 #requests==2.19.1
 
 # Pakke: AIF360 (https://github.com/IBM/AIF360)
-nbformat
-nbconvert
-jupyter_client
-ipykernel
-ipython
-ipywidgets
-tqdm
-numpy>=1.14,<1.16
-matplotlib
-pandas==0.23.3
-pytest
-scipy
-scikit-learn
-cvxpy>=1.0
-numba
-tensorflow==1.13.1
-networkx==1.11
-BlackBoxAuditing;python_version>="3"
-lime
+#nbformat
+#nbconvert
+#jupyter_client
+#ipykernel
+#ipython
+#ipywidgets
+#tqdm
+#numpy>=1.14,<1.16
+#matplotlib
+#pandas==0.23.3
+#pytest
+#scipy
+#scikit-learn
+#cvxpy>=1.0
+#numba
+#tensorflow==1.13.1
+#networkx==1.11
+#BlackBoxAuditing;python_version>="3"
+#lime
 
 #Eirik sine pakker
 psycopg2==2.7.5
@@ -31,9 +31,9 @@ progressbar2==3.38.0
 pytorch-pretrained-bert==0.6.2
 
 # Jon Vegard
-tabulate==0.8.3
-urllib
-jupyterlab
+#tabulate==0.8.3
+#urllib
+#jupyterlab
 #-r dvc-0.34.1.txt
 #-r aequitas-0.25.0.txt
 #-r imbalanced_learn-0.4.3.txt
@@ -45,4 +45,4 @@ xmltodict==0.12.0
 PyPDF2==1.26.0
 
 # Anders
-seaborn
+#seaborn
