@@ -43,6 +43,7 @@ shap==0.29.3
 # Lars
 xmltodict==0.12.0
 PyPDF2==1.26.0
+category-encoders==2.0.0
 
 # Anders
 seaborn==0.7.1
