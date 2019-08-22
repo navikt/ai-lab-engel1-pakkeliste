@@ -44,6 +44,7 @@ shap==0.29.3
 xmltodict==0.12.0
 PyPDF2==1.26.0
 category-encoders==2.0.0
+dtreeviz==0.6
 
 # Anders
 seaborn==0.7.1
