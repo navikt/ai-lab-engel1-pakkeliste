@@ -47,6 +47,7 @@ category-encoders==2.0.0
 
 # Anders
 seaborn==0.7.1
+feather-format==0.4.0
 
 # Erik
 dataverk==0.1.15
