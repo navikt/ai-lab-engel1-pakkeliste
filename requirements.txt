@@ -41,6 +41,7 @@ jupyterlab
 shap==0.29.3
 dataverk==0.2.2
 plotly==4.1.1
+ipywidgets==7.5
 
 # Lars
 xmltodict==0.12.0
