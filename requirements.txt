@@ -40,6 +40,7 @@ jupyterlab
 -r orange-3.20.1.txt
 shap==0.29.3
 dataverk==0.2.2
+plotly==4.1.1
 
 # Lars
 xmltodict==0.12.0
