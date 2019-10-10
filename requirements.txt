@@ -39,7 +39,7 @@ jupyterlab
 -r imbalanced_learn-0.4.3.txt
 -r orange-3.20.1.txt
 shap==0.29.3
-dataverk==0.2.2
+dataverk
 plotly==4.1.1
 ipywidgets==7.1.1
 
