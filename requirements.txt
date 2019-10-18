@@ -42,6 +42,7 @@ shap==0.29.3
 dataverk
 plotly==4.1.1
 ipywidgets==7.1.1
+kmodes
 
 # Lars
 xmltodict==0.12.0
