@@ -55,3 +55,6 @@ pandas_profiling==2.3.0
 seaborn==0.7.1
 feather-format==0.4.0
 dask==2.3.0
+
+# Gøran
+-r pypdfocr-0.9.1.txt
