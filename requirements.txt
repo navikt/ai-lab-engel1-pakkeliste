@@ -59,7 +59,7 @@ pdf2image
 
 # Gøran
 -r pypdfocr-0.9.1.txt
-nbstripout==0.2.5
+nbstripout==0.3.6
 
 # Robindra
 seaborn==0.9.0
