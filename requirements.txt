@@ -44,6 +44,7 @@ plotly==4.1.1
 ipywidgets==7.1.1
 kmodes
 feather-format==0.4.0
+witwidget-gpu==1.6.0
 
 # Lars
 xmltodict==0.12.0
