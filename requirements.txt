@@ -73,3 +73,5 @@ seaborn==0.9.0
 
 # Beate
  -r pyLDAvis-2.1.2.txt
+
+tensorflow>=2.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
