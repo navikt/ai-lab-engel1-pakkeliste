@@ -74,5 +74,4 @@ seaborn==0.9.0
 # Beate
  -r pyLDAvis-2.1.2.txt
 
-pillow>=6.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
-tensorflow>=2.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tensorflow>=2.0.0 # not directly required, pinned by Snyk to avoid a vulnerability. FYI: tensorflow-gpu er lista over, men Snyk skjønner ikke det.
