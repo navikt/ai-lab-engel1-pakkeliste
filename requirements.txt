@@ -64,7 +64,6 @@ dask==2.3.0
 pdf2image
 
 # Gøran
--r pypdfocr-0.9.1.txt
 nbstripout==0.3.6
 
 # Robindra
