@@ -56,6 +56,7 @@ dtreeviz==0.6
 pandas_profiling==2.3.0
 scikit-survival
 setuptools-scm
+pillow==7.1.1
 
 # Anders
 #seaborn==0.7.1
@@ -73,4 +74,4 @@ seaborn==0.9.0
 # Beate
  -r pyLDAvis-2.1.2.txt
 
-tensorflow>=2.0.0 # not directly required, pinned by Snyk to avoid a vulnerability. FYI: tensorflow-gpu er lista over, men Snyk skjønner ikke det.
+tensorflow>=2.0.0 # not directly required, pinned by Snyk to avoid a vulnerability. FYI: tensorflow-gpu er lista over, men Snyk skjønner ikke det. 
