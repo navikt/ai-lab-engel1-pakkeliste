@@ -63,6 +63,7 @@ pillow==7.1.1
 feather-format==0.4.0
 dask==2.3.0
 pdf2image
+python-benedict
 
 # Gøran
 nbstripout==0.3.6
