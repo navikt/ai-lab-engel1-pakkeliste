@@ -58,22 +58,11 @@ scikit-survival
 setuptools-scm
 pillow==7.1.1
 
-pymc3>=3.9.1
-arviz>=0.8.3
-theano>=1.0.4
-patsy>=0.5.1
-fastprogress>=0.2.0
-h5py>=2.7.0
-typing-extensions>=3.7.4
-
 # Anders
 #seaborn==0.7.1
 feather-format==0.4.0
 dask==2.3.0
 pdf2image
-python-benedict
-jsonschema==3.2.0
-portion
 
 # Gøran
 nbstripout==0.3.6
@@ -85,4 +74,4 @@ seaborn==0.9.0
 # Beate
  -r pyLDAvis-2.1.2.txt
 
-tensorflow>=2.0.0 # not directly required, pinned by Snyk to avoid a vulnerability. FYI: tensorflow-gpu er lista over, men Snyk skjønner ikke det. 
+tensorflow>=2.0.0 # not directly required, pinned by Snyk to avoid a vulnerability. FYI: tensorflow-gpu er lista over, men Snyk skjønner ikke det.
