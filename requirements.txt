@@ -73,6 +73,7 @@ dask==2.3.0
 pdf2image
 python-benedict
 jsonschema==3.2.0
+portion
 
 # Gøran
 nbstripout==0.3.6
