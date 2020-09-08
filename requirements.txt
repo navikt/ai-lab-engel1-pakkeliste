@@ -25,3 +25,21 @@ editdistance==0.5.3
 ngram==3.3.2
 progressbar2==3.38.0
 #pytorch-pretrained-bert==0.6.2
+
+# Jon Vegard
+tabulate==0.8.3
+urllib
+jupyterlab
+-r dvc-0.34.1.txt
+-r aequitas-0.25.0.txt
+-r imbalanced_learn-0.4.3.txt
+-r orange-3.20.1.txt
+shap==0.29.3
+dataverk
+plotly==4.1.1
+ipywidgets==7.1.1
+kmodes
+feather-format==0.4.0
+witwidget-gpu==1.6.0
+aix360==0.2.0
+jq==0.1.6
