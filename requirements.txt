@@ -1,2 +1,3 @@
 # Jon Vegard
 tabulate==0.8.3
+shap==0.29.3
