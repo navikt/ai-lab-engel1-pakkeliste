@@ -30,10 +30,6 @@ progressbar2==3.38.0
 tabulate==0.8.3
 urllib
 jupyterlab
--r dvc-0.34.1.txt
--r aequitas-0.25.0.txt
--r imbalanced_learn-0.4.3.txt
--r orange-3.20.1.txt
 shap==0.29.3
 dataverk
 plotly==4.1.1
