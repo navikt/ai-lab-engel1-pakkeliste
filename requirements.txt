@@ -18,3 +18,10 @@ tensorflow-gpu==2.1.0
 networkx==1.11
 BlackBoxAuditing;python_version>="3"
 lime
+
+#Eirik sine pakker
+psycopg2==2.7.5
+editdistance==0.5.3
+ngram==3.3.2
+progressbar2==3.38.0
+#pytorch-pretrained-bert==0.6.2
