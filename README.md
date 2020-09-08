@@ -1,4 +1,7 @@
 # ai-lab-engel1-pakkeliste
+
+[![Known Vulnerabilities](https://snyk.io/test/github/navikt/ai-lab-engel1-pakkeliste/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/navikt/ai-lab-engel1-pakkeliste?targetFile=requirements.txt)
+
 Liste med python-pakker som skal sluses inn eller er slust inn til Engel 1 via intern nexus server. Dette for å muliggjøre kontinuerlig sårbarhetsvurdering av kodeverk slik beskrevet her: https://confluence.adeo.no/pages/viewpage.action?pageId=259099058.
 
 ### Fremgangsmåte:
