@@ -43,7 +43,6 @@ dtreeviz==0.6
 scikit-survival
 setuptools-scm
 pillow==7.1.1
-
 pymc3>=3.9.1
 arviz>=0.8.3
 theano>=1.0.4
@@ -51,6 +50,7 @@ patsy>=0.5.1
 fastprogress>=0.2.0
 h5py>=2.7.0
 typing-extensions>=3.7.4
+lifelines>=0.25.4
 
 # Anders
 #seaborn==0.7.1
