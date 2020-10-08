@@ -34,6 +34,7 @@ ipywidgets==7.1.1
 feather-format==0.4.0
 witwidget-gpu==1.6.0
 jq==0.1.6
+modin==0.8.1.1
 
 # Lars
 xmltodict==0.12.0
