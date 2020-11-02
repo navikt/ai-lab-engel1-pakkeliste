@@ -13,7 +13,7 @@ pytest==3.0.7
 scipy==1.1.0
 scikit-learn
 cvxpy>=1.0
-numba==0.45.1
+numba>=0.51.2
 tensorflow-gpu==2.1.0
 networkx==1.11
 BlackBoxAuditing;python_version>="3"
