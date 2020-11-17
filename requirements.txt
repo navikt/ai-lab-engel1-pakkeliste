@@ -29,7 +29,6 @@ progressbar2==3.38.0
 # Jon Vegard
 tabulate==0.8.3
 shap==0.29.3
-plotly==4.1.1
 ipywidgets==7.1.1
 feather-format==0.4.0
 witwidget-gpu>=1.7.0
@@ -69,6 +68,7 @@ nbstripout==0.3.6
 # Robindra
 seaborn==0.9.0
 kaleido==0.0.3
+plotly==4.12.0
 -r imbalanced_learn-0.6.2.txt
 
 # Beate
