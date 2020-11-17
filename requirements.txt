@@ -68,9 +68,9 @@ nbstripout==0.3.6
 
 # Robindra
 seaborn==0.9.0
--r imbalanced_learn-0.6.2.txt
 plotly==4.12.0
 kaleido==0.0.3
+-r imbalanced_learn-0.6.2.txt
 
 # Beate
  -r pyLDAvis-2.1.2.txt
