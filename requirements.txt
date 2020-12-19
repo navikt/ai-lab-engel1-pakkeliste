@@ -62,6 +62,7 @@ pdf2image
 jsonschema==3.2.0
 portion
 pycryptodomex==3.9.8
+torch==1.7.1
 
 # Gøran
 nbstripout==0.3.6
