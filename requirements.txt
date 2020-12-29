@@ -73,6 +73,7 @@ seaborn==0.9.0
 kaleido==0.0.3
 plotly>=4.1.1
 nbstripout==0.3.9
+
 -r imbalanced_learn-0.6.2.txt
 
 # Beate
