@@ -78,3 +78,4 @@ nbstripout==0.3.9
 
 # Beate
  -r pyLDAvis-2.1.2.txt
+notebook>=6.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
