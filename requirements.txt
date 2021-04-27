@@ -63,6 +63,7 @@ jsonschema==3.2.0
 portion
 pycryptodomex==3.9.8
 torch==1.7.1
+spacy>=3.0.0
 
 # Gøran
 # nbstripout==0.3.6
