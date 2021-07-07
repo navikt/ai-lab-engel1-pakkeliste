@@ -42,7 +42,7 @@ category-encoders==2.0.0
 dtreeviz==0.6
 scikit-survival
 setuptools-scm
-pillow==8.2.0
+pillow==8.3.0
 pymc3>=3.9.1
 arviz>=0.8.3
 theano>=1.0.4
