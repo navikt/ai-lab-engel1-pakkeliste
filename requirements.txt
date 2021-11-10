@@ -63,7 +63,7 @@ xgboost==1.4.2
 # Anders
 #seaborn==0.7.1
 feather-format==0.4.0
-dask==2021.6.0
+dask==2021.10.0
 pdf2image
 jsonschema==3.2.0
 portion
