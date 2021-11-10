@@ -42,7 +42,7 @@ category-encoders==2.0.0
 dtreeviz==0.6
 scikit-survival
 setuptools-scm
-pillow==8.3.1
+pillow==8.4.0
 pymc3>=3.9.1
 arviz>=0.8.3
 theano>=1.0.4
@@ -63,7 +63,7 @@ xgboost==1.4.2
 # Anders
 #seaborn==0.7.1
 feather-format==0.4.0
-dask==2.3.0
+dask==2021.6.0
 pdf2image
 jsonschema==3.2.0
 portion
