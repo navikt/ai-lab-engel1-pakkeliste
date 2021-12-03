@@ -63,7 +63,7 @@ xgboost==1.4.2
 # Anders
 #seaborn==0.7.1
 feather-format==0.4.0
-dask==2021.6.0
+dask==2021.10.0
 pdf2image
 jsonschema==3.2.0
 portion
@@ -79,7 +79,7 @@ seaborn==0.9.0
 kaleido==0.0.3
 plotly>=4.1.1
 nbstripout==0.3.9
-networkx==2.2
+networkx==2.6
 
 -r imbalanced_learn-0.6.2.txt
 
