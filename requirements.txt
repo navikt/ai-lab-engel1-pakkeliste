@@ -70,6 +70,7 @@ pycryptodomex==3.9.8
 torch==1.7.1
 spacy>=3.0.0
 pymupdf==1.19.6
+opencv-python==4.5.5.64
 
 # Gøran
 # nbstripout==0.3.6
