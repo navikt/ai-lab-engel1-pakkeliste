@@ -69,6 +69,7 @@ portion
 pycryptodomex==3.9.8
 torch==1.7.1
 spacy>=3.0.0
+pymupdf==1.19.6
 
 # Gøran
 # nbstripout==0.3.6
