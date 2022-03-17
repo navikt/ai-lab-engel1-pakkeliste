@@ -3,10 +3,10 @@ nbformat
 nbconvert==5.1.1
 jupyter_client==5.2.3
 ipykernel==4.8.2
-ipython==5.3.0
+ipython==7.16.3
 # ipywidgets==7.1.0rc1
 tqdm==4.29.0
-numpy==1.17
+numpy==1.22.2
 matplotlib==3.0.2
 pandas==0.23.4
 pytest==3.0.7
@@ -62,7 +62,7 @@ xgboost==1.4.2
 # Anders
 #seaborn==0.7.1
 feather-format==0.4.0
-dask==2021.6.0
+dask==2021.10.0
 pdf2image
 jsonschema==3.2.0
 portion
@@ -80,7 +80,7 @@ seaborn==0.9.0
 kaleido==0.0.3
 plotly>=4.1.1
 nbstripout==0.3.9
-networkx==2.2
+networkx==2.6
 
 -r imbalanced_learn-0.6.2.txt
 
