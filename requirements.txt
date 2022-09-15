@@ -58,6 +58,7 @@ PDPbox==0.2.1
 Boruta==0.3
 lightgbm==3.2.1
 xgboost==1.4.2
+gensim==4.2.0
 
 # Anders
 #seaborn==0.7.1
