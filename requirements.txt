@@ -1,9 +1,9 @@
 # Pakke: AIF360 (https://github.com/IBM/AIF360)
 nbformat
-nbconvert==5.1.1
+nbconvert==6.3.0b0
 jupyter_client==5.2.3
 ipykernel==4.8.2
-ipython==7.4.0
+ipython==7.16.3
 # ipywidgets==7.1.0rc1
 tqdm==4.29.0
 numpy==1.17
