@@ -3,7 +3,7 @@ nbformat
 nbconvert==5.1.1
 jupyter_client==5.2.3
 ipykernel==4.8.2
-ipython==7.4.0
+ipython==7.16.3
 # ipywidgets==7.1.0rc1
 tqdm==4.29.0
 matplotlib==3.0.2
@@ -89,3 +89,4 @@ networkx==2.2
 
 # Beate
  -r pyLDAvis-2.1.2.txt
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
