@@ -52,7 +52,6 @@ lifelines>=0.25.4
 catboost==0.26
 rpy2==3.3.6
 DataSynthesizer==0.1.8
-sdv==0.10.1
 PDPbox==0.2.1
 Boruta==0.3
 lightgbm==3.2.1
