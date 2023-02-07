@@ -2,7 +2,7 @@
 nbformat
 jupyter_client==5.2.3
 ipykernel==4.8.2
-ipython==7.4.0
+ipython==7.16.3
 # ipywidgets==7.1.0rc1
 tqdm==4.29.0
 matplotlib==3.0.2
@@ -66,7 +66,7 @@ pycryptodomex==3.9.8
 spacy>=3.0.0
 pymupdf==1.19.6
 opencv-python==4.5.5.64
-pillow==9.0.1
+pillow==9.2.0
 pytesseract==0.3.9
 imutils==0.5.4
 
@@ -78,9 +78,11 @@ seaborn==0.9.0
 kaleido==0.0.3
 plotly>=4.1.1
 nbstripout==0.3.9
-networkx==2.2
+networkx==2.6
 
 -r imbalanced_learn-0.6.2.txt
 
 # Beate
  -r pyLDAvis-2.1.2.txt
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
