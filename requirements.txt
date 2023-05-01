@@ -2,7 +2,7 @@
 nbformat
 jupyter_client==5.2.3
 ipykernel==4.8.2
-ipython==7.4.0
+ipython==7.16.3
 # ipywidgets==7.1.0rc1
 tqdm==4.29.0
 matplotlib==3.0.2
