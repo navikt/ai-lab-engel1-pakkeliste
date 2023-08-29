@@ -85,3 +85,4 @@ networkx==2.2
 
 # Beate
  -r pyLDAvis-2.1.2.txt
+jupyter-server>=2.7.2 # not directly required, pinned by Snyk to avoid a vulnerability
