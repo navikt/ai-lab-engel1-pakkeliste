@@ -66,7 +66,7 @@ portion
 pycryptodomex==3.9.8
 spacy>=3.0.0
 pymupdf==1.19.6
-opencv-python==4.5.5.64
+opencv-python==4.8.1.78.64
 pillow==9.0.1
 pytesseract==0.3.9
 imutils==0.5.4
