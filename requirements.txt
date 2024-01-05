@@ -63,7 +63,7 @@ feather-format==0.4.0
 pdf2image
 jsonschema==3.2.0
 portion
-pycryptodomex==3.9.8
+pycryptodomex==3.19.1
 spacy>=3.0.0
 pymupdf==1.19.6
 opencv-python==4.5.5.64
