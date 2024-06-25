@@ -85,3 +85,4 @@ networkx==2.2
 
 # Beate
  -r pyLDAvis-2.1.2.txt
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
