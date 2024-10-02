@@ -1,87 +1,9 @@
-# Pakke: AIF360 (https://github.com/IBM/AIF360)
-nbformat
-jupyter_client==5.2.3
-ipykernel==4.8.2
-ipython==7.4.0
-# ipywidgets==7.1.0rc1
-tqdm==4.29.0
-matplotlib==3.0.2
-pandas==0.23.4
-pytest==3.0.7
-scipy==1.1.0
-scikit-learn
-cvxpy>=1.0
-numba>=0.51.2|
-BlackBoxAuditing;python_version>="3"
-lime
-
-#Eirik sine pakker
-psycopg2==2.7.5
-editdistance==0.5.3
-ngram==3.3.2
-progressbar2==3.38.0
-#pytorch-pretrained-bert==0.6.2
-
-# Jon Vegard
-tabulate==0.8.3
-shap==0.29.3
-ipywidgets==7.1.1
-feather-format==0.4.0
-witwidget-gpu>=1.7.0
-jq==0.1.6
-modin==0.8.1.1
-pyzmq==19.0.2 
-
-# Lars
-xmltodict==0.12.0
-PyPDF2==1.27.9
-pypdf==3.8.1
-category-encoders==2.0.0
-dtreeviz==0.6
-scikit-survival
-setuptools-scm
-pymc3>=3.9.1
-arviz>=0.8.3
-theano>=1.0.4
-patsy>=0.5.1
-fastprogress>=0.2.0
-h5py>=2.7.0
-typing-extensions>=3.7.4
-lifelines>=0.25.4
-catboost==0.26
-rpy2==3.3.6
-DataSynthesizer==0.1.8
-PDPbox==0.2.1
-Boruta==0.3
-lightgbm==3.2.1
-xgboost==1.4.2
-gensim==4.2.0
-
-# Anders
-#seaborn==0.7.1
-feather-format==0.4.0
-pdf2image
-jsonschema==3.2.0
-portion
-pycryptodomex==3.9.8
-spacy>=3.0.0
-pymupdf==1.19.6
-opencv-python==4.5.5.64
-pillow==9.0.1
+matplotlib==3.9.2
+notebook==7.2.2
+oracledb==2.4.1
+pandas==2.2.3
+pdf2image1.17.0
+polars==1.9.0
+pycryptodomex==3.21.0
+pypdf==5.0.1
 pytesseract==0.3.9
-imutils==0.5.4
-
-# Gøran
-# nbstripout==0.3.6
-
-# Robindra
-seaborn==0.9.0
-kaleido==0.0.3
-plotly>=4.1.1
-nbstripout==0.3.9
-networkx==2.2
-
--r imbalanced_learn-0.6.2.txt
-
-# Beate
- -r pyLDAvis-2.1.2.txt
