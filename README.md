@@ -9,5 +9,5 @@ Fullstendig fremgangsmåte finnes her: https://confluence.adeo.no/x/USYTEw
 
 Når en ny python pakke ønskes tilgjengeliggjort på Engel1, skal avhengighetene (hentet fra f.eks. "requirements.txt" filen til pakken) legges til requirements.txt filen her.
 
-Pakkene i sistnevnte fil vil da vurderes og monitoreres av githubs "security vulnerability" (https://help.github.com/en/articles/about-security-alerts-for-vulnerable-dependencies) og SNYK (www.snyk.io).
+Pakkene i sistnevnte fil vil da vurderes og monitoreres av githubs "security vulnerability" (https://help.github.com/en/articles/about-security-alerts-for-vulnerable-dependencies).
 
