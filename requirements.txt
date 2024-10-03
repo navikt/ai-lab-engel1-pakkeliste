@@ -7,3 +7,4 @@ polars==1.9.0
 pycryptodomex==3.21.0
 pypdf==5.0.1
 pytesseract==0.3.9
+scikit-learn==1.5.2
